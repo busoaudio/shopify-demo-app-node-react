@@ -44,7 +44,4 @@
     "store-js": "^2.0.4"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-plugin-shopify": "^27.0.1"
-  }
 }
