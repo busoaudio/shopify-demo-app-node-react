@@ -43,5 +43,4 @@
     "react-dom": "^16.14.0",
     "store-js": "^2.0.4"
   },
-  "devDependencies": {
 }
